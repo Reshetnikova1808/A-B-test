@@ -1,6 +1,6 @@
 ## Стек
 
-Python, Pandas, Seaborn, Matplotlib.pyplot, Scipy, Scipy.stats, Numpy
+Python, Jupiter notebook, Pandas, Seaborn, Matplotlib.pyplot, Scipy, Scipy.stats, Numpy
 
 ## A/B–тестирование  
 
